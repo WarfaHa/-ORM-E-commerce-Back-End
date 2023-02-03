@@ -1,7 +1,7 @@
 # (ORM) E-commerce-Back-End
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Built Sequelize Models to connect to MYSQL database, then using API Routes in Insomnia for each category, product, or tag.
+Built using Sequelize Models to connect to MYSQL database, then using API Routes in Insomnia for each category, product, or tag.
 
 ## Table of Contents
 * [Description](#description)
@@ -36,13 +36,13 @@ THEN I am able to successfully create, update, and delete data in my database<br
 
 
 ## Walkthrough Video 
-Below is a GIF that demonstrates the GET Route in Insomnia.
+Below is a GIF that demonstrates the start of the application.
 
-![GIF-of-GET-ROUTES](./assets/)
+![GIF-of-SEEDING-SERVER](./assets/GIF-Seeding-Server.gif)
 
-Below is a GIF that demonstrates the POST Route in Insomnia.
+Below is a GIF that demonstrates the GET/POST/PUT Routes in Insomnia.
 
-![GIF-of-POST-ROUTES](./assets/)
+![GIF-of-GET-POST-ROUTES](./assets/GIF-GET-POST-PUT-Routes.gif)
 
 ## Licenses
      To view the MIT license. Click the license button above.
